@@ -333,10 +333,7 @@ void delete_book()
 }
 
 
-
-//***************************************************************
-//        function to display all students list
-//****************************************************************
+//Student list
 
 void display_alls()
 {
